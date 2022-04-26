@@ -1,0 +1,25 @@
+{
+    "name": "NPP DETECTOR",
+    "short_name": "npp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "backgrond_color": "#fafafa",
+    "operation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/src/icon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/src/icon.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/src/icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
